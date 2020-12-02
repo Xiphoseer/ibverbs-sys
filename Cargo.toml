@@ -1,0 +1,9 @@
+[package]
+name = "ibverbs-sys"
+version = "0.1.0"
+authors = ["Xiphoseer <xiphoseer@mailbox.org>"]
+edition = "2018"
+links = "ibverbs"
+
+[dependencies]
+libc = "0.2"
